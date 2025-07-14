@@ -7,8 +7,8 @@ issue_tracker: https://github.com/imaNNeo/fl_chart/issues
 documentation: https://github.com/imaNNeo/fl_chart
 
 environment:
-  sdk: ">=3.6.2 <4.0.0"
-  flutter: ">=3.27.4"
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.32.6"
 
 funding:
   - https://github.com/sponsors/imaNNeo
